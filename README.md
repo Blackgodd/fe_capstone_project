@@ -92,6 +92,9 @@ project-root/
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a Pull Request.
 
+## New Feature from dev branch" >> README.md
+echo
+
 ## 📄 License
 This project is licensed under the **MIT License**. See the LICENSE file for more information.
 
